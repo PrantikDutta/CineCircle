@@ -102,11 +102,7 @@ Once the movies are represented as TF-IDF vectors, **cosine similarity** is used
 
 The cosine similarity between two vectors can be represented as:
 
-$$
-\text{Cosine Similarity}(A,B)
-=
-\frac{A \cdot B}{||A||\,||B||}
-$$
+$$\text{Cosine Similarity}(A,B)=\frac{A \cdot B}{||A||\,||B||}$$
 
 A higher similarity score indicates that two movies have more similar content characteristics.
 
